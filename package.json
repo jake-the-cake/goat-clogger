@@ -1,0 +1,12 @@
+{
+  "name": "goat-clogger",
+  "version": "0.0.2",
+  "description": "Server side formatted logging in terminal.",
+  "main": "src/index.js",
+  "repository": "git@github.com:jake-the-cake/goat-clogger.git",
+  "author": "jake-the-cake <askjake331@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
